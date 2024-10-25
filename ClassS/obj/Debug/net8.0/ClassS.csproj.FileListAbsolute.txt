@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\ClassS\ClassS\bin\Debug\net8.0\ClassS.exe
+C:\Users\asus\source\repos\ClassS\ClassS\bin\Debug\net8.0\ClassS.deps.json
+C:\Users\asus\source\repos\ClassS\ClassS\bin\Debug\net8.0\ClassS.runtimeconfig.json
+C:\Users\asus\source\repos\ClassS\ClassS\bin\Debug\net8.0\ClassS.dll
+C:\Users\asus\source\repos\ClassS\ClassS\bin\Debug\net8.0\ClassS.pdb
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.AssemblyInfo.cs
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.dll
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\refint\ClassS.dll
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.pdb
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ClassS.genruntimeconfig.cache
+C:\Users\asus\source\repos\ClassS\ClassS\obj\Debug\net8.0\ref\ClassS.dll
